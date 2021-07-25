@@ -5,6 +5,8 @@
 #### **ML Implementation in Sklearn** 
 ![sklearn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
 
+##### Supervised Learning
+
 [Linear Regression : Ecommerce Data](https://github.com/PranavC10/Linear_Regression_Ecommerce_Data)
 
 [Multi-Linear Regression Incuding Regularization : Admission Prediction](https://github.com/PranavC10/Multi_Linear_Regression_Including_Regularization)
@@ -23,6 +25,13 @@
 
 [Support Vector Machine ](https://github.com/PranavC10/Support_Vector_Machine)
 
+##### Unsupervised Learning
+
+[K-Means Clustering : Mall Customer Segmentation](https://github.com/PranavC10/K-Means_Clustering)
+
+[DBSCAN(Density Based Spatial Clustering of Apllications with Noise)](https://github.com/PranavC10/DBSCAN_Clustering)
+
+[Hierarchical Clustering](https://github.com/PranavC10/Hierarchical_clustering)
 
 
 
