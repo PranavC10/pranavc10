@@ -25,6 +25,8 @@
 
 [Support Vector Machine ](https://github.com/PranavC10/Support_Vector_Machine)
 
+[k-Nearest Neighbors(KNN)](https://github.com/PranavC10/KNN)
+
 ##### Unsupervised Learning
 
 [K-Means Clustering : Mall Customer Segmentation](https://github.com/PranavC10/K-Means_Clustering)
